@@ -5,6 +5,12 @@
   "main": "./build/index.js",
   "module": "./build/index.es.js",
   "source": "/src/index.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/respati123/lib-test.git"
+  },
+  "author": "Respati Tri Susetyo",
+  "license": "ISC",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
