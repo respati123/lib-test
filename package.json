@@ -1,15 +1,17 @@
 {
-  "name": "@ui-ut/storybook",
+  "name": "@respati123/storybook",
   "version": "0.1.0",
-  "private": true,
   "main": "./build/index.js",
   "module": "./build/index.es.js",
   "source": "/src/index.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/respati123/lib-test.git"
+    "url": "https://github.com/respati123/lib-test.git"
   },
-  "author": "Respati Tri Susetyo",
+  "bugs": {
+    "url": "https://github.com/respati123/lib-test/issues"
+  },
+  "author": "respati123",
   "license": "ISC",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
